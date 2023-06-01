@@ -5,3 +5,12 @@ Build/
 __pycache__/
 tags/
 .vscode/
+
+
+*~
+*.*~
+*.un~
+*.*un~
+*.*.un~
+*.swp
+*.swp~
